@@ -11,5 +11,5 @@
 <h2> Contact Information:</h2>
 
 - <b> [LinkedIn](https://www.linkedin.com/in/samuelcraft1/) <b>
-- <b> Email: cratsa@bc.edu
+- <b> Email: craftsa@bc.edu
 - <b> Text or Call: 7812648136
