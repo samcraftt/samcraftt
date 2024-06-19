@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1>Samuel Craft (Sam) <br/><a 
+<h1>Math + CS @ BC <br/><a </h1>
 
-<!--
-**samcraftt/samcraftt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Coding Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Systems-Level (C)</b>
+  - [Zipping and Unzipping Text Files](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Computing Statistics with Dynamic Memory Allocation](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Counting Words, Lines, and Characters with System Calls](https://github.com/joshmadakor1/Algorithms-Practice)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2> Contact Information:</h2>
+
+- <b> [LinkedIn](https://www.linkedin.com/in/samuelcraft1/) <b>
+- <b> Email: cratsa@bc.edu
+- <b> Text or Call: 7812648136
