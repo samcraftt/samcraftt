@@ -5,7 +5,7 @@
 
 - <b>Systems-Level (C)</b>
   - [Zipping and Unzipping Text Files](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Computing Statistics with Dynamic Memory Allocation](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Computing Statistics with Dynamic Memory Allocation](https://github.com/samcraftt/Stats)
   - [Counting Words, Lines, and Characters with System Calls](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2> Contact Information:</h2>
