@@ -4,9 +4,9 @@
 <h2>Coding Projects:</h2>
 
 - <b>Systems-Level (C)</b>
-  - [Zipping and Unzipping Text Files](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Zipping and Unzipping Text Files](https://github.com/samcraftt/Zip)
   - [Computing Statistics with Dynamic Memory Allocation](https://github.com/samcraftt/Stats)
-  - [Counting Words, Lines, and Characters with System Calls](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Counting Words, Lines, and Characters with System Calls](https://github.com/samcraftt/Counts)
 
 <h2> Contact Information:</h2>
 
