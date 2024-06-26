@@ -4,6 +4,7 @@
 <h2>Coding Projects:</h2>
 
 - <b>Systems-Level (C)</b>
+  - [Coding a Shell](https://github.com/samcraftt/Shell)
   - [Zipping and Unzipping Text Files](https://github.com/samcraftt/Zip)
   - [Computing Statistics with Dynamic Memory Allocation](https://github.com/samcraftt/Stats)
   - [Counting Words, Lines, and Characters with System Calls](https://github.com/samcraftt/Counts)
