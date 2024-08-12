@@ -3,9 +3,9 @@
 
 <h2>Coding Projects:</h2>
 
-- <b>Educational Technology | Python, HTML, CSS, JavaScript, Flask, PostgreSQL</b>
+- <b>Educational Technology | Python, HTML, CSS, JavaScript, Flask, PostgreSQL, Google Cloud</b>
   - [Jamliterate: Simplified Studying](https://github.com/samcraftt/Jamliterate)
-- <b>iOS Application Development | Swift, Xcode, Firebase, AdMob</b>
+- <b>iOS Application Development | Swift, Xcode, Firebase, AdMob, Prompt Engineering</b>
   - [The David Game: Draw, Guess, Repeat!](https://github.com/samcraftt/DavidGame)
   - [Simon's Colors: Memory Game](https://github.com/samcraftt/SimonsColors)
 - <b>Systems-Level | C, Unix</b>
