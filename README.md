@@ -9,8 +9,9 @@
   - [SC Interactives (Development Team)](https://scinteractives.com)
   - [The David Game](https://github.com/samcraftt/DavidGame)
   - [Hue Hopper](https://github.com/samcraftt/SimonsColors)
-- <b>Low Level Programming</b>
-  - [C Programs](https://github.com/samcraftt/c-programs)
+- <b>Other</b>
+  - [Low Level C Programming](https://github.com/samcraftt/c-programs)
+  - [Personal Portfolio](https://samcraftt.github.io/Portfolio)
   
 <h2> Contact Information:</h2>
 
