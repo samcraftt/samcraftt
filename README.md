@@ -10,7 +10,7 @@
   - [The David Game](https://github.com/samcraftt/DavidGame)
   - [Hue Hopper](https://github.com/samcraftt/SimonsColors)
 - <b>Low Level Programming</b>
-  - [C Programs](https://github.com/samcraftt/c-programming)
+  - [C Programs](https://github.com/samcraftt/c-programs)
   
 <h2> Contact Information:</h2>
 
