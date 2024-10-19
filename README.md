@@ -5,10 +5,10 @@
 
 - <b>Educational Technology | Python, HTML, CSS, JavaScript, Flask, PostgreSQL, Google Cloud</b>
   - [Jamliterate: Simplified Studying](https://github.com/samcraftt/Jamliterate)
-- <b>iOS Application Development | Swift, Xcode, Firebase, AdMob, Prompt Engineering</b>
-  - [SC Interactives: Mobile Application Development](https://scinteractives.com)
-  - [The David Game: Draw, Guess, Repeat!](https://github.com/samcraftt/DavidGame)
-  - [Simon's Colors: Memory Game](https://github.com/samcraftt/SimonsColors)
+- <b>Mobile Application Development</b>
+  - [SC Interactives (Development Team)](https://scinteractives.com)
+  - [The David Game](https://github.com/samcraftt/DavidGame)
+  - [Hue Hopper](https://github.com/samcraftt/SimonsColors)
 - <b>[Low Level C Programming](https://github.com/samcraftt/c-programming)</b>
   
 <h2> Contact Information:</h2>
