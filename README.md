@@ -1,5 +1,4 @@
-# Sam Craft<br/>
-# CS + Math @ BC<br/>
+# Sam Craft<br/>CS + Math @ BC<br/>
 ## Coding Projects:
 - **Educational Technology**
   - [Jamliterate: Simplified Studying](https://github.com/samcraftt/jamliterate)
