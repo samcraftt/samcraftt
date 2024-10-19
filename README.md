@@ -6,7 +6,7 @@
 - <b>Educational Technology</b>
   - [Jamliterate: Simplified Studying](https://github.com/samcraftt/Jamliterate)
 - <b>Mobile Application Development</b>
-  - [SC Interactives (Development Team)](https://scinteractives.com)
+  - [SC Interactives (App Development Team)](https://scinteractives.com)
   - [The David Game](https://github.com/samcraftt/DavidGame)
   - [Hue Hopper](https://github.com/samcraftt/SimonsColors)
 - <b>Other</b>
