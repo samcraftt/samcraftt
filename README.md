@@ -1,9 +1,9 @@
 <h1>Sam Craft<br/><a 
-<h1> CS + Math @ BC <br/></h1>
+<h1> CS + Math @ BC<br/></h1>
 
 <h2>Coding Projects:</h2>
 
-- <b>Educational Technology | Python, HTML, CSS, JavaScript, Flask, PostgreSQL, Google Cloud</b>
+- <b>Educational Technology</b>
   - [Jamliterate: Simplified Studying](https://github.com/samcraftt/Jamliterate)
 - <b>Mobile Application Development</b>
   - [SC Interactives (Development Team)](https://scinteractives.com)
