@@ -1,5 +1,5 @@
-<h1>Samuel Craft (Sam) <br/><a 
-<h1>Math + CS @ BC <br/><a </h1>
+<h1>Sam Craft<br/><a 
+<h1> CS + Math @ BC <br/></h1>
 
 <h2>Coding Projects:</h2>
 
