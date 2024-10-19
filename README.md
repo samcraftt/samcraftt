@@ -16,4 +16,4 @@
 <h2> Contact Information:</h2>
 
 - <b> Email: craftsam28@gmail.com
-- <b> Text or Call: 7812648136
+- <b> Text or Call: [+1 (781) 264-8136](tel:+17812648136)
