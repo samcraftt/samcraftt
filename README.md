@@ -1,4 +1,4 @@
-# Sam Craft<br/><a 
+# Sam Craft<br/>
 # CS + Math @ BC<br/>
 ## Coding Projects:
 - **Educational Technology**
