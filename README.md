@@ -9,11 +9,7 @@
   - [SC Interactives: Mobile Application Development](https://scinteractives.com)
   - [The David Game: Draw, Guess, Repeat!](https://github.com/samcraftt/DavidGame)
   - [Simon's Colors: Memory Game](https://github.com/samcraftt/SimonsColors)
-- <b>Systems-Level | C, Unix</b>
-  - [Coding a Shell](https://github.com/samcraftt/Shell)
-  - [Zipping and Unzipping Text Files](https://github.com/samcraftt/Zip)
-  - [Computing Statistics with Dynamic Memory Allocation](https://github.com/samcraftt/Stats)
-  - [Counting Words, Lines, and Characters with System Calls](https://github.com/samcraftt/Counts)
+- <b>[Low Level C Programming](https://github.com/samcraftt/c-programming)</b>
   
 <h2> Contact Information:</h2>
 
