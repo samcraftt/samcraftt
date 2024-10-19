@@ -1,16 +1,16 @@
-<h1>Sam Craft<br/><a 
-<h1> CS + Math @ BC<br/></h1>
-<h2>Coding Projects:</h2>
-- <b>Educational Technology</b>
+# Sam Craft<br/><a 
+# CS + Math @ BC<br/>
+## Coding Projects:
+- **Educational Technology**
   - [Jamliterate: Simplified Studying](https://github.com/samcraftt/jamliterate)
-- <b>Mobile Application Development</b>
+- **Mobile Application Development**
   - [SC Interactives (App Development Team)](https://scinteractives.com)
   - [The David Game](https://github.com/samcraftt/david-game)
   - [Hue Hopper](https://github.com/samcraftt/hue-hop)
-- <b>Other</b>
+- **Other**
   - [Low Level C Programming](https://github.com/samcraftt/c-programs)
   - [Personal Portfolio](https://samcraftt.github.io/Portfolio)
-
-<h2> Contact Information:</h2>
-- <b> Email: craftsam28@gmail.com
-- <b> Text or Call: +1 (781) 264-8136
+  
+## Contact Information:
+- **Email:** craftsam28@gmail.com
+- **Text or Call:** +1 (781) 264-8136
