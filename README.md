@@ -11,7 +11,7 @@
   - [Hue Hopper](https://github.com/samcraftt/hue-hopper)
 - <b>Other</b>
   - [Low Level C Programming](https://github.com/samcraftt/c-programs)
-  - [Personal Portfolio](https://samcraftt.github.io/portfolio)
+  - [Personal Portfolio](https://samcraftt.github.io/Portfolio)
   
 <h2> Contact Information:</h2>
 
